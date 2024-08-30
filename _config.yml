@@ -22,7 +22,7 @@ title: Mallard Point HOA
 email: mallardptissaquah@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This site holds the information relevant to the Mallard Point community in Issaquah, WA.
-baseurl: "" # the subpath of your site, e.g. /blog
+# baseurl: "" # the subpath of your site, e.g. /blog
 url: https://mallardpointehoa.github.io/mphoatest.github.io/ # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  MallardPointeHOA
