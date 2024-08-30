@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to Mallard Point!"
 date:   2024-08-30 12:47:15 -0700
 categories: jekyll update
 ---

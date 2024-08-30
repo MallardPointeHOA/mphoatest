@@ -4,15 +4,14 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+The Mallard Point Community ([location on Google Maps](https://maps.app.goo.gl/GQ2sfvRDqeEA14Cq7)) has been developed by [The Burnsteads](https://www.burnstead.com/) ([here](https://www.burnstead.com/mallard-pointe) is the official link to the builder's website about the community).
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+This website provides information mostly relevant to the existing Homeowners; new buyers are advised to [reach out to **The Burnsteads**](https://www.burnstead.com/contact-us-today) directly, instead.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+<!-- <ul>
+  {% for post in site.posts %}
+		<li>
+    	<a href="{{ post.url }}">{{ post.title }}</a>
+  	</li>
+  {% endfor %}
+</ul> -->
