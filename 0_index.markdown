@@ -3,7 +3,12 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: Home
 permalink: /
 ---
 
-# Home
+## Announcements
+* Next meeting Details
+  * Date: \<TBD\>
+  * Location: \<TBD\>
+

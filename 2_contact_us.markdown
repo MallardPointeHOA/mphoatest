@@ -5,4 +5,4 @@ permalink: /contact/
 ---
 
 * [Google Maps location](https://maps.app.goo.gl/5STmrDKyBPuzWUE68)
-* <a href="mailto:mallardptissaquah@gmail.com">email</a>
+* [email](mailto:mallardptissaquah@gmail.com)
